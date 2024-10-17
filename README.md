@@ -42,8 +42,8 @@ Maintained server environments and worked closely with teams to keep workflows s
 ## 💻 Projects
 
 - **[Coffee Shop App](https://github.com/Zero10965/coffee-shop.git)**  
-  A simple project for managing orders in a coffee shop. Built using Python and GitHub.
-
+  Built an interactive Python program to act as a virtual coffee shop barista!
+  
 - **NJIT Labs & Projects**  
   Set up and troubleshooted OS and networking issues in virtual labs.
 
